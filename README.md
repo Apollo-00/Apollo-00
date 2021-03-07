@@ -1,6 +1,11 @@
 # README
-README(refresh if it needs)
+refresh if it needs
 
-Learning: HTML&CSS
-Working: Portfolio
-Comment: Progate普通によくね？ 
+##Learning 
+<a>HTML&CSS</a>
+
+##Working
+<a>Portfolio</a>
+
+##Comment
+<a>Progate普通によくね？</a> 
