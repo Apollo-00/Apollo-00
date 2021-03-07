@@ -1,11 +1,11 @@
 # README
 refresh if it needs
 
-##Learning 
+## Learning 
 <a>HTML&CSS</a>
 
-##Working
+## Working
 <a>Portfolio</a>
 
-##Comment
+## Comment
 <a>Progate普通によくね？</a> 
