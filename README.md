@@ -8,4 +8,4 @@ refresh if it needs
 <a>Portfolio</a>
 
 ## Comment
-<a>Progate普通によくね？</a> 
+<a>なにもわからない！！</a> 
